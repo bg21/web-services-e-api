@@ -1,5 +1,5 @@
 <?php
-    require '../vendor/autoload.php';
+    require 'vendor/autoload.php';
     include('Conexao.php');
 
     use FlyingLuscas\Correios\Client;
