@@ -13,3 +13,7 @@ Youtube API:
       https://packagist.org/packages/madcodez/youtube
       
 --------------------------------------------------------------------------------------------------
+
+Correios API / FlyingLuscas
+https://packagist.org/packages/flyingluscas/correios-php
+É preciso passar o id do produto na url - Banco de dados já no projeto.
